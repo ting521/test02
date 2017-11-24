@@ -30,7 +30,9 @@
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       }
-    }
+    },
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
